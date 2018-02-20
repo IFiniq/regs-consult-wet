@@ -3,7 +3,7 @@ Displaying submissions after the consultation period
 
 Regulations.gov displays comments during the consultation period. This creates a set of behaviours that run counter to the spirit of the consultation, which are outlined below. The alternative, which has been in place at the Canadian Nuclear Safety Commission for many years now, is to display all submissions at the end of the primary consultation period. 
 
-* View an example Regulatory consultation at CNSC: http://nuclearsafety.gc.ca/eng/acts-and-regulations/regulatory-documents/history/regdoc3-2-1.cfm
+* View an example Regulatory consultation at CNSC (Packaging and Transport of Nuclear Substances Regulations, 2015 - Canada Gazette, Part I): http://nuclearsafety.gc.ca/eng/acts-and-regulations/consultation/history-regs/index.cfm
 
 In addition the CNSC provides a second short feedback period in which people can respond to submissions from the primary consultation period. This prevents the comment-on-comments feedback loops that are possible in comment forums, that are very difficult to analyze and enable social-media style hate behaviours. 
 
